@@ -1,0 +1,20 @@
+sudo apt-get install
+ros-kinetic-gazebo-ros 
+ros-kinetic-ur-kinematics
+ros-kinetic-ur-description             
+ros-kinetic-controller-manager
+ros-kinetic-robot-localization
+ros-kinetic-twist-mux
+ros-kinetic-gazebo-plugins
+ros-kinetic-moveit-ros
+ros-kinetic-ur-driver
+ros-kinetic-gazebo-ros-control
+ros-kinetic-position-controllers
+ros-kinetic-joint-state-controller
+ros-kinetic-diff-drive-controller
+ros-kinetic-joint-trajectory-controller
+ros-kinetic-moveit-simple-controller-manager
+ros-kinetic-ompl
+ros-kinetic-moveit-planners
+ros-kinetic-moveit-ros-control-interface
+ros-kinetic-interactive-marker-twist-server
